@@ -4,6 +4,13 @@ Rainbow
 
 Rainbow: Combining Improvements in Deep Reinforcement Learning [[1]](#references).
 
+Work from Julien Lenhardt and Benjamin Wallyn.
+
+This is a work based on the work which can be found [here](https://github.com/Kaixhin/Rainbow/)
+
+Initial work
+------------
+
 Results and pretrained models can be found in the [releases](https://github.com/Kaixhin/Rainbow/releases).
 
 - [x] DQN [[2]](#references)
